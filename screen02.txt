@@ -1,0 +1,10 @@
+X Sort
+Comparaciones: 214758
+
+Numero total de operaciones de busqueda por fecha solicitadas: 50: 
+Numero total de busquedas exitosas: 49
+Numero total de busquedas no exitosas: 1
+
+Busqueda del primer par de registros con 80 dias de diferencia: 
+[330] Jun 03 16:06:11 117.29.227.162:7727 Illegal user
+[9165] Aug 22 16:06:11 67.4.118.149:7066 Failed password for illegal user root
