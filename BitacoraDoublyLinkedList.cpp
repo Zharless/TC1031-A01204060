@@ -13,9 +13,13 @@
  * Ejecucion:
  *    ./main
  *
- * Fuentes consultadas:
- *    - GeeksforGeeks
- *    - cppreference
+ * Fuentes de consulta:
+ * - GeeksforGeeks (implementaciones de listas doblemente ligadas y Merge Sort)
+ *   https://www.geeksforgeeks.org/doubly-linked-list/
+ *   https://www.geeksforgeeks.org/merge-sort-for-linked-list/
+ *
+ * - cppreference (documentación de C++)
+ *   https://en.cppreference.com/
  **/
 
 #include <iostream>
