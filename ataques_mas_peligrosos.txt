@@ -1,9 +1,0 @@
-Jun 1 01:06:03 65.57.18.239:1163 Failed password for illegal user root
-Jun 1 01:52:37 111.89.38.165:1772 Failed password for illegal user guest
-Jun 1 02:18:20 128.47.216.109:6740 Failed password for illegal user root
-Jun 1 03:27:20 56.15.203.204:6494 Failed password for illegal user guest
-Jun 1 03:54:52 57.134.210.237:2310 Failed password for illegal user guest
-Jun 1 04:18:08 85.198.80.74:9438 Failed password for illegal user guest
-Jun 1 05:30:59 20.242.129.33:9522 Illegal user
-Jun 1 06:46:16 142.235.96.123:5402 Failed password for illegal user guest
-Jun 1 08:23:57 11.105.45.36:4225 Failed password for admin
