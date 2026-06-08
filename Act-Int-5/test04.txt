@@ -1,0 +1,15 @@
+IP: 2.139.111.106
+Total de direcciones accesadas desde la IP: 10
+Total de direcciones que intentaron acceder a la IP: 13
+Relación entre el número de direcciones accesadas y que intentaron acceder a la IP: 0.77
+Lista de direcciones accesadas:
+221.254.147.34
+219.252.173.170
+190.45.58.113
+129.90.98.72
+71.135.111.207
+68.90.16.89
+64.75.33.105
+49.10.239.193
+24.71.30.100
+5.33.90.194

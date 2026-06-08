@@ -1,0 +1,22 @@
+IP: 115.157.160.175
+Total de direcciones accesadas desde la IP: 17
+Total de direcciones que intentaron acceder a la IP: 10
+Relación entre el número de direcciones accesadas y que intentaron acceder a la IP: 1.70
+Lista de direcciones accesadas:
+226.229.230.160
+189.50.238.201
+182.68.111.134
+142.236.44.68
+102.164.163.222
+100.232.168.211
+84.254.5.163
+78.120.164.230
+67.179.116.1
+63.28.154.246
+59.200.79.123
+57.177.143.224
+56.57.99.17
+53.19.60.148
+44.148.208.133
+42.188.179.170
+3.192.227.165

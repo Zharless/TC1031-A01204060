@@ -1,0 +1,23 @@
+IP: 185.109.34.183
+Total de direcciones accesadas desde la IP: 18
+Total de direcciones que intentaron acceder a la IP: 6
+Relación entre el número de direcciones accesadas y que intentaron acceder a la IP: 3.00
+Lista de direcciones accesadas:
+246.219.104.240
+245.214.151.148
+242.72.54.27
+221.63.175.226
+219.152.103.35
+211.119.19.136
+201.123.197.182
+197.254.8.54
+195.172.72.243
+170.237.10.205
+125.219.34.175
+119.77.234.197
+118.60.124.206
+87.200.226.236
+66.210.65.251
+54.141.159.172
+49.29.130.223
+35.152.106.152
